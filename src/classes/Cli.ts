@@ -75,7 +75,7 @@ class Cli {
           this.createTruck();
         }else{
           //create motorbike
-          this.createMotorbike
+          this.createMotorbike()
         }
       });
   }
